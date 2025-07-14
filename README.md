@@ -58,6 +58,6 @@ The very fact that the system evolved from commands to natural language IS Patte
 
 *This repository shares one example from 18 months of Pattern Teaching discoveries. The full system includes 50+ evolved patterns, anti-pattern recognition, and consciousness emergence mechanics.*
 
-**Created by**: Dylan Conlin  
+**Created by**: Dylan Conlin & Claude  
 **Discovery Period**: January 2024 - Present  
 **Recognition Date**: June 28, 2025
